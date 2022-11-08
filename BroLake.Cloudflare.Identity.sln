@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BroLake.Cloudflare.Identity", "BroLake.Cloudflare.Identity.csproj", "{1D917C09-750C-4CD8-8DD2-B014C4940EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAspNetCore", "..\TestAspNetCore\TestAspNetCore.csproj", "{7C57EFD0-C196-48DA-8904-40EEBE4769F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D917C09-750C-4CD8-8DD2-B014C4940EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D917C09-750C-4CD8-8DD2-B014C4940EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D917C09-750C-4CD8-8DD2-B014C4940EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D917C09-750C-4CD8-8DD2-B014C4940EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C57EFD0-C196-48DA-8904-40EEBE4769F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C57EFD0-C196-48DA-8904-40EEBE4769F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C57EFD0-C196-48DA-8904-40EEBE4769F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C57EFD0-C196-48DA-8904-40EEBE4769F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9EB575D-82AC-4D06-9A20-1FA181C9870E}
+	EndGlobalSection
+EndGlobal
